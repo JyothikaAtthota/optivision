@@ -23,7 +23,12 @@ OPTIVISION/
 ├── app.py              # Gradio web interface
 └── requirements.txt
 ```
+## Download Pretrained Model
 
+The trained model weights are hosted on Google Drive (too large for GitHub).
+
+1. Download: https://drive.google.com/uc?export=download&id=1b8AVH0cNHY-8lkDvIaLx7_7I1Ebc4uNQ
+2. Place the file at: outputs/best_model.pth
 ---
 
 ## DR Classes
